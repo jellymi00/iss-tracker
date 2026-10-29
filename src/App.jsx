@@ -53,7 +53,7 @@ export default function App() {
 
       <header className="hero">
         <span className="badge">React 19 · TanStack Query · IndexedDB</span>
-        <h1>국제 우주 정거장 실시간 추적</h1>
+        <h1>국제 우주 정거장 실시간 추적 어플리케이션</h1>
         <p>Open Notify API로 ISS 위치를 수집하고, 최근 4시간의 궤적을 지도 위에 표시합니다. 수집되지 않은 구간은 궤도 모델로 추정하여 점선으로 그립니다.</p>
       </header>
 
